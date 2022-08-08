@@ -1,0 +1,6 @@
+My Python v3.9
+
+packages: 
+- os
+- zipfile
+- pathlib
