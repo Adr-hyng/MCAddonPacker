@@ -23,3 +23,8 @@ Example:
 
 To use, you need Python, required packages are already built-in inside python. 
 To start, download or clone this repo, then, run the `main.py` python file on this directory you've downloaded or cloned by using your Python IDE or Compiler. After running, there will be a `.mcaddon` which was compiled by this program. Namely `Test Addon.mcaddon`. There you can put your behavior pack folder or resource pack folder to that directory to automatically pack stuffs for you.
+
+# Things to Do
+
+- use fuzzy string matching (fuzzywuzzy) or NLP to accurately check your precise behavior and resource pack folder name.
+- have CLI for beginner-friendly users, and to not use any IDE or Compiler for other user or me.
